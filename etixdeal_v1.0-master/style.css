@@ -1,0 +1,136 @@
+div[data-testid="stHorizontalBlock"] > div:first-of-type {
+    background-color: #9188c8;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+  }
+ div:nth-of-type(8)[data-testid="stVerticalBlockdiv"]{
+    background-color: #ffcbf2;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+  }
+div[data-testid="stHorizontalBlock"] > div:last-of-type {
+    background-color: #e3cdff;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+  }
+.css-1cpxqw2.edgvbvh9{
+    background-color: #9370DB;
+
+}
+ 
+#etixdeal{
+    margin-top: -75px;
+    padding-left: 70px;
+   
+}
+.css-qrbaxs.effi0qh3{
+    font-size: larger;
+
+}
+.css-nlntq9.e16nr0p33{
+    
+    margin: -15px;
+    border-radius: 10px;
+}
+.element-container.css-12o4mgw.e1tzin5v3{
+    padding: 15px;
+   
+
+}
+img{
+    width: 100px;
+    height: 75px;
+
+}
+p{
+    color: black;
+    
+
+
+}
+.stAlert{
+    background-color: #ceeed8;
+    border-radius: 10px;
+}
+.css-1fcdlhc.e1s6o5jp0{
+    background-color: #a3c4f3;
+   
+}
+.css-1fcdlhc.e1s6o5jp0{
+    background-color: #9370DB;
+    border-radius: 10px;
+}
+
+#etixway-information{
+    background-color: #d8bbff;
+    border-radius: 10px;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+#information-collaborateur{
+    background-color: #ffcbf2;
+    border-radius: 10px;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+#information-sous-traitant{
+    background-color: #ffcbf2;
+    border-radius: 10px;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+#information-client{
+    background-color: #ffcbf2;
+    border-radius: 10px;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+
+#information-sous-traitant-collaborateur{
+    background-color: #ffcbf2;
+    border-radius: 10px;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+.css-1ztj87.edgvbvh9{
+    background-color: #9370DB;
+}
+.css-ytkq5y.e1tzin5v2{
+    padding-left: -50px;
+    background-color: #483D8B;
+}
+/* .css-ocqkz7.e1tzin5v4{
+    background-color: #000000;
+} */ 
+.css-183lzff.eyqtai90{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.css-1ztj87.edgvbvh9{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.css-l7x2nz.e1wbw4rs0.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ck.st-fn.st-c0.st-dm.st-c1.st-fo.st-b2.st-br.st-at.st-fj.st-fk.st-ap.st-ar.st-fm{
+    color: white;
+}
+
+.appview-container.css-1wrcr25.egzxvld4{
+    background-color: #483D8B;
+}
+.stApp.streamlit-wide.css-127g5zg.eczokvf0{
+    background-color: #483D8B;
+}
+.css-fg4pbf{
+    background-color: #483D8B;
+}
+.element-container.css-1839bh2.e1tzin5v3{
+    background-color: #483D8B;
+}

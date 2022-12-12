@@ -1,0 +1,16 @@
+docxtpl==0.16.0
+docx
+keyboard
+nbformat==5.4.0
+streamlit==1.9.0
+datetime==4.4
+pillow==9.1.1
+pybase64==1.2.2
+pyautogui==0.9.53
+py-dateutil==2.2
+pywinwatcher==0.0.1
+Pygments
+#email
+#email.mime.text==0.1.0
+#email.mime.base==0.1.0
+secure-smtplib
